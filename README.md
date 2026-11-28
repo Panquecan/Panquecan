@@ -26,14 +26,14 @@ Eu sou Cauã, tenho 17 anos, estou aprendendo programação
 
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=Panquecan&theme=radical&locale=pt_BR&card_width=1000&v=2026-11-26"
+    src="https://streak-stats.demolab.com/?user=Panquecan&theme=radical&locale=pt_BR&card_width=1000&v=2026-11-27"
     width="100%"
   />
 </div>
 
 <div align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Panquecan&show_icons=true&theme=radical&layout=compact&custom_title=Tecnologias&card_width=1000&v=2026-11-26"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Panquecan&show_icons=true&theme=radical&layout=compact&custom_title=Tecnologias&card_width=1000&v=2026-11-27"
     width="100%"
   />
 </div>
